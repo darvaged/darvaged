@@ -2,7 +2,7 @@
 <img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
 ### Founder & CEO at ZDK Company
-<font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> `<feature>` :heart: </font>
+<font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> :heart: </font>
 #
 
 ### Spotify Playing :notes:
@@ -23,7 +23,7 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    founder     : tuple = ("www.partivo.net")
+    founder     : tuple = ("www.moonbd.net")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=1)
