@@ -6,7 +6,7 @@
 #
 
 ### Spotify Playing :notes:
-[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96) 
+[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/313627vxqgyj34zi2fznuf4clcre) 
 <br/>
 <h2>
 
