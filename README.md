@@ -1,5 +1,5 @@
 <h2> Hi, I'm Darvaged! <img src="https://media.giphy.com/media/l1J9rgKXAD9BpO1sk/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.hizliresim.com/8kzb6ae.jpg" width="230">
+<img align='right' src="https://i.hizliresim.com/5nbpber.jpg" width="230">
 
 ### Founder & CEO at ZDK Company
 <font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> :heart: </font>
