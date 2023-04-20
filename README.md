@@ -5,10 +5,6 @@
 <font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> :heart: </font>
 #
 
-### Spotify Playing :notes:
-[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/313627vxqgyj34zi2fznuf4clcre) 
-<br/>
-<h2>
 
 
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
