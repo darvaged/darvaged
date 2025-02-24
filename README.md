@@ -1,7 +1,7 @@
 <h2> Hi, I'm Darvaged! <img src="https://media.giphy.com/media/l1J9rgKXAD9BpO1sk/giphy.gif" width="50"></h2>
 
 ### Founder at ZDK Company
-<font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> :heart: </font>
+<font color="pink"> </em> :heart: </font>
 #
 
 
