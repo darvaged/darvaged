@@ -14,7 +14,7 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    founder     : tuple = ("zdk.network")
+    founder     : tuple = ("moonbd.online")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=1)
