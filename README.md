@@ -2,9 +2,6 @@
 
 ### Founder at MoonBD Project <font color="pink"> </em> :heart: </font>
 #
-
-
-
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
 
 <h3>
